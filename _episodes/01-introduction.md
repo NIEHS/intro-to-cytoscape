@@ -3,13 +3,13 @@ title: "Introduction"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "How do I use Cytoscape?"
 objectives:
-- "First learning objective. (FIXME)"
+- "Learn how to open Cytoscape."
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "This is a key point."
 ---
-FIXME
+Introduction will go here.
 
 {% include links.md %}
 

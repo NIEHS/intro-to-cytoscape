@@ -1,7 +1,7 @@
 ---
 title: Setup
 ---
-FIXME
+Setup information will go here.
 
 
 {% include links.md %}

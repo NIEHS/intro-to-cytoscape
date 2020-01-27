@@ -1,6 +1,6 @@
 ---
 title: "Instructor Notes"
 ---
-FIXME
+Instructor notes will go here.
 
 {% include links.md %}

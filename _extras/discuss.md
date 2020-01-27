@@ -1,6 +1,6 @@
 ---
 title: Discussion
 ---
-FIXME
+Discussion will go on this page.
 
 {% include links.md %}
